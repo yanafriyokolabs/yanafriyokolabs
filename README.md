@@ -31,7 +31,7 @@
 <img height="50" src="https://santrikoding.com/storage/categories/MG6r9rmxJqYoZAzZi75UeFO6dVtDwpyou9Er6htp.png">
 </code>
 
-![Fika Ridaul Maulayya Github Stats](https://github-readme-stats.vercel.app/api?username=maulayyacyber&show_icons=true&hide_border=true)
+![Yan Afriyoko Github Stats](https://github-readme-stats.vercel.app/api?username=yanafriyokolabs&show_icons=true&hide_border=true)
 
 ***********************************
 
