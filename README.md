@@ -3,7 +3,7 @@
 
 
 <a href="https://t.me/maulayyacyber">
-  <img align="left" alt="Fika Ridaul Maulayya Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatshap.svg" />
+  <img align="left" alt="Fika Ridaul Maulayya Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/maulayyacyber/">
   <img align="left" alt="Fika Ridaul Maulayya Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
