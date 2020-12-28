@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yan Afriyoko</h1>
 <h3 align="center">A Software Engineer 🚀 from Indonesia</h3>
 
-<br>
-<br>
+
+
+<a href="https://www.instagram.com/maulayyacyber/">
+  <img align="left" alt="Fika Ridaul Maulayya Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.instagram.com/maulayyacyber/">
+  <img align="left" alt="Fika Ridaul Maulayya Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
 
 - 🔭 I’m currently working on [NineDargonLabs](https://ninedragonlabs.com)
 
