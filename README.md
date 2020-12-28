@@ -21,7 +21,7 @@
 **Languages and Tools:**  
 
 <code>
-<img height="50" src="https://santrikoding.com/storage/categories/Z9WjttjEmct1FzwkFDwSVyKpvhTqBWkJUQA1CuLc.png">
+<!-- <img height="50" src="https://santrikoding.com/storage/categories/Z9WjttjEmct1FzwkFDwSVyKpvhTqBWkJUQA1CuLc.png"> -->
 <img height="50" src="https://santrikoding.com/storage/categories/zuwzKbAhb691lp2Q1CIYaFK2w0a5McE1mceDOsRs.png">
 <img height="50" src="https://santrikoding.com/storage/categories/YoSpx2AAk65JI5z9wsiYMY5z7i3vWCe06VUP3FC0.png">
 <img height="50" src="https://santrikoding.com/storage/categories/cvwITZUdJRZIYg3zTz1iGdRFm08zLb7DIaazo5Cz.png">
