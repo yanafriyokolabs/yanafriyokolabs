@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NineDargonLabs](https://ninedragonlabs.com)
 
-- 👨‍💻 Portfolio at [Here](https://github.com/maulayyacyber/portfolio/blob/master/README.md)
+- 👨‍💻 Portfolio at [Here](https://github.com/yanafriyokolabs/portofolio/blob/main/README.md)
 
 - ✉️ How to reach me **yanafriyoko22@gmail.com**
 
